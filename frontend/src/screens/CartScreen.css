@@ -1,0 +1,18 @@
+/* CartScreen.css */
+
+.rounded-list {
+    border-radius: 15px; /* Adjust the border-radius to control the roundness */
+  }
+  
+  .rounded-list-item {
+    border-radius: 15px; /* Adjust the border-radius to control the roundness */
+  }
+  
+  .rounded-card {
+    border-radius: 15px; /* Adjust the border-radius to control the roundness */
+  }
+  
+  .rounded-button {
+    border-radius: 15px; /* Adjust the border-radius to control the roundness */
+  }
+  

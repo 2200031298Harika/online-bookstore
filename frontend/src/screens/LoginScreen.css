@@ -1,0 +1,15 @@
+/* LoginScreen.css */
+
+.rounded-box {
+    border-radius: 15px;
+    padding: 20px;
+  }
+  
+  .rounded-input {
+    border-radius: 15px;
+  }
+  
+  .rounded-button {
+    border-radius: 15px;
+  }
+  
